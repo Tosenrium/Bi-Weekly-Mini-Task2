@@ -22,10 +22,10 @@ let number = 2;
 
 let remainder = number % 2;
 
-if (remainder === 1) {
-  console.log('odd')
-} else {
+if (remainder === 0) {
   console.log('even')
+} else {
+  console.log('odd')
 }
 
 // Programming Quiz: Musical Groups
