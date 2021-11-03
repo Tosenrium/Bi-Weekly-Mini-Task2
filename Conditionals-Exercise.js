@@ -30,7 +30,7 @@ if (remainder === 0) {
 
 // Programming Quiz: Musical Groups
 
-/*
+/*/*
  * QUIZ REQUIREMENTS
  * 1. Your code should have a variable `musicians`, and include `if...else if...else` conditional statement
  * 2. Your code should produce the expected output, as mentioned above. Read each condition carefully. 
