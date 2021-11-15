@@ -47,16 +47,16 @@
 
 // Solution
 
-    // let captain = "Mal";
-    // let second = "Zoe";
-    // let pilot = "Wash";
-    // let companion = "Inara";
-    // let mercenary = "Jayne";
-    // let mechanic = "Kaylee";
+       let captain = "Mal";
+       let second = "Zoe";
+       let pilot = "Wash";
+       let companion = "Inara";
+       let mercenary = "Jayne";
+       let mechanic = "Kaylee";
 
-    // crew = [captain, second, pilot, companion, mercenary, mechanic]
+       crew = [captain, second, pilot, companion, mercenary, mechanic]
 
-    // console.log(crew)
+       console.log(crew)
 
 // 3. Starting with this array of prices, change the prices of the 1st, 3rd, and 7th elements in the array.
 // const prices = [1.23, 48.11, 90.11, 8.50, 9.99, 1.00, 1.10, 67.00];
@@ -176,6 +176,8 @@
 // * - Your code should use the `push()` method to add new members to the `crew` array
 // * - Print the array on the console at the end
 // */
+
+  //Solution
 
     let captain = "Mal";
     let second = "Zoe";
